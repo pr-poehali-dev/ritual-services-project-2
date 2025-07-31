@@ -127,7 +127,7 @@ const Index = () => {
               </div>
               <div>
                 <p className="text-lg text-muted-foreground mb-6">
-                  Наша компания работает в сфере ритуальных услуг более 15 лет. 
+                  Наша компания работает в сфере ритуальных услуг более 10 лет. 
                   Мы понимаем, насколько важно в трудную минуту получить профессиональную 
                   и деликатную помощь.
                 </p>
@@ -138,7 +138,7 @@ const Index = () => {
                 </p>
                 <div className="flex items-center space-x-4">
                   <Icon name="Award" size={24} className="text-primary" />
-                  <span className="text-primary font-semibold">15+ лет опыта</span>
+                  <span className="text-primary font-semibold">10+ лет опыта</span>
                 </div>
               </div>
             </div>
