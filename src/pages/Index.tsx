@@ -12,7 +12,7 @@ const Index = () => {
           <div className="flex justify-between items-center">
             <div className="flex items-center space-x-3">
               <Icon name="Cross" size={24} className="text-primary" />
-              <h1 className="text-2xl font-serif text-primary">Ритуальные услуги</h1>
+              <h1 className="text-2xl font-serif text-primary">Ритуальные услуги по Северной Осетии</h1>
             </div>
             <div className="flex items-center space-x-4">
               <Icon name="Phone" size={20} className="text-accent" />
@@ -208,7 +208,7 @@ const Index = () => {
         <div className="container mx-auto px-6 text-center">
           <div className="flex items-center justify-center space-x-3 mb-4">
             <Icon name="Cross" size={20} />
-            <span className="text-lg font-serif">Ритуальные услуги</span>
+            <span className="text-lg font-serif">Ритуальные услуги по Северной Осетии</span>
           </div>
           <p className="text-sm opacity-80">
             Деликатность • Профессионализм • Круглосуточная поддержка
